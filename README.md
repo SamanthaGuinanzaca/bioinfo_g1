@@ -36,7 +36,8 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 <https://bioinfotraining.bio.cam.ac.uk/>
 
 ## Tutorial de R de bioinformatica 
-https://www.youtube.com/watch?v=jm2j0P1hmEE
+<https://www.youtube.com/watch?v=jm2j0P1hmEE>
+
 
 
 
