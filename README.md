@@ -28,10 +28,15 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Samantha Elizabeth Guiñanzaca Vaca
+
 
 ## INFORMACIÓN ADICIONAL
 
 <https://bioinfotraining.bio.cam.ac.uk/>
+
+## Tutorial de R de bioinformatica 
+https://www.youtube.com/watch?v=jm2j0P1hmEE
 
 
 
