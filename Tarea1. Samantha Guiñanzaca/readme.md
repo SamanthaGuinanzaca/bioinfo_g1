@@ -13,4 +13,4 @@ Tenga en cuenta que las columnas están separadas por espacios y que hay un espa
 
 
 # Ejercicio 1.10.3 Parte 2
-Escriba un script que imprima el número de filas y columnas de cada columnas de cada red
+Escriba un script que imprima el número de filas y columnas para cada red
