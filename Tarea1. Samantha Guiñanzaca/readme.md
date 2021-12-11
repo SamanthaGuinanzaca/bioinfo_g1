@@ -12,5 +12,5 @@ Escriba un script que tome uno de estos archivos y determine el número de filas
 Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea.
 
 
-#Ejercicio 1.10.3 Parte 2
+# Ejercicio 1.10.3 Parte 2
 Escriba un script que imprima el número de filas y columnas de cada columnas de cada red
