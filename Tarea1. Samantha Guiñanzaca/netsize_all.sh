@@ -6,3 +6,8 @@ cd Documents/Bioinformatica/CSB-master/unix/data/Saavedra2013
 
 Parte2=../Saavedra2013/*.txt
 
+$ for f in $Parte2
+> do
+> echo $f
+> done
+
