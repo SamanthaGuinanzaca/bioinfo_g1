@@ -1,4 +1,4 @@
-
+cd /Documents/Bioinformatica/CSB-master/unix/data/Saavedra2013
 
 echo 'Ejercicio 1.10.3'
 
