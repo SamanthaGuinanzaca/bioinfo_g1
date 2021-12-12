@@ -10,7 +10,14 @@ Parte2=../Saavedra2013/*.txt
  do
   echo $F 
  done  
- 
+
+ for f in $Parte2
+ do
+    myrow=`cat $f | wc -l`
+    mycol=`head -n 1 $f | tr -d ' ' | tr -d '\n' | wc -c`
+    echo $f $myrow $mycol
+done 
+
 
 
 
