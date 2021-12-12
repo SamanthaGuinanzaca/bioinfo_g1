@@ -10,7 +10,9 @@ se pueden encontrar en el directorio CSB/ unix /data/Saavedra 2013
 # Ejercicio 1.10.3 Parte 1
 Escriba un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). 
 Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea.
-
+<netsize.sh>
 
 # Ejercicio 1.10.3 Parte 2
 Escriba un script que imprima el número de filas y columnas para cada red
+<netsize_all.sh>
+
