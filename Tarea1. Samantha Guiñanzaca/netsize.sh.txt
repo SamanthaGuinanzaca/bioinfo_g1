@@ -1,0 +1,4 @@
+Numero de filas:
+45 n50.txt
+Numero de columnas:
+46
